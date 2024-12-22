@@ -1,4 +1,4 @@
-# Overview over the reposity
+# Overview of the reposity
 As outlined in the report, there are three different folders containing our own jax implementation, 
 the pytorch reimplementation of that, and a copy of the 
 [repository](https://github.com/xqding/Importance_Weighted_Autoencoders/blob/master/model/vae_models.py) 
